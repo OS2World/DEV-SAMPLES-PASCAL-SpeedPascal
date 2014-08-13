@@ -1,0 +1,99 @@
+                       toolbox proudly presents
+                       ------------------------
+                       
+                       
+                   Speed-386 PASCAL for OS/2 2.1
+                    demo pre release (june 1994)
+        -----------------------------------------------------
+
+              Copyright (C) 1993,94 Rene NÅrnberger
+
+
+This is no shareware, no public domain, no freeware, no cripple ware
+but a service of the German toolbox mag. (We do not pac'th!).
+
+(Readme US version, German Users please read README.GER!)
+
+This is a fully functional demo version of Speed 386, the only 
+object oriented 32 bit pascal compiler for OS/2. 
+But: it only works in the DOS box of OS/2. The target system is 
+OS/2 2.x (32 bit).
+
+The final version (shipped about sept/oct '94) will have OS/2 as
+host platform and will be 4 to 5 times faster.
+
+The sources, written for this demo will compile without problems
+with the final version.
+
+All programs and sources in this archive are copyrighted. Commerical
+use and publication are strictly prohibited. You may use Speed for OS/2
+only for private purposes. Modification, decompilation and reengineering
+of the executables is prohibited. You may not change the copyright notices
+in the sources.
+
+The files ØRTM.EXEÆ and ØDPMI16BI.OVLÆ are Copyright Borland Intl., Inc.
+1993. Please register, that the DOS box should have DPMI support enabled(!).
+You know: the Borland DPMI bug.
+
+You may use, copy and redistribute the programs and sources in this archive
+if all files are unmodified. But you may not ship this program with any
+commerical programs.
+
+Please mail bug reports and suggestions to the author!
+
+
+to:     DMV-Verlag
+        Redaktion toolbox
+        z.Hd. Herrn R. NÅrnberger
+        Gruber Str. 46a
+        D-85586 Poing
+        Germany
+        Fax: xx49-8121-769-199
+
+or (better) via CompuServe 72662,2052
+
+Bugfixes and Update will be placed into the German OS/2 User forum:
+GO OS2UGER
+
+
+Have fun :-)
+
+Additional at CompuServe from toolbox magazine:
+
+ASM386 - 32-bit-assembler for DOS virtual and real mode
+         In IBMPROG:Assembler
+         
+BPOS2I - Interface for the BP4OS2 pat'ch (16 bit only, pre alpha version)
+         In: OS/2 Rexx/Other Lang and Borland Pascal:General
+
+
+                       Interested in our magazine?
+                       ---------------------------
+
+
+The ØtoolboxÆ is the only independent programmer's magazine in Germany.
+We are available in Germany, Switzerland and Austria at any good bookstore.
+
+The prize?
+DM 28.--
+To much?
+No!
+The prize includes not only the printed magazine but also a disk (1.44 MB
+of packed data) on the cover. 
+ØtoolboxÆ is published 2monthly (DEC/FEB/APR/JUN/AUG/OCT/...).
+
+Interested programmers in USA, U.K. Canada ...
+
+We are not available at newsstand but you can subscribe. If you are interested
+in subscription mail us for overseas conditions.
+
+Warning: THE LANGUAGE IS GERMAN! The programs are in C(++), Pascal, VB(A)
+for DOS, Windows and OS/2.
+
+You cannot read German texts but write C(++), Pascal ...
+
+We are interested in programmers from all countries who want to contribute
+articles. Interesting articles will be translated. Logically, we pay for 
+the programs. Mail us via CompuServe! Then we tell you more about the 
+conditions for publication.
+

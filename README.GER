@@ -1,0 +1,54 @@
+
+Speed-386 PASCAL fr OS/2 2.1 Demoversion (Juni 1994)
+-----------------------------------------------------
+
+Copyright (C) 1993,94 Rene Nrnberger
+
+
+Dies ist eine Demoversion. Diese Version ist nur in der DOS-Box von OS/2
+lauff„hig, erzeugt aber unter OS/2 lauff„hige 32-Bit Programme. Die
+Vollversion ( Fertigstellung ca. September/Oktober 1994 ) wird vollst„ndig
+unter OS/2 lauff„hig und ca. 4-5 mal schneller sein.
+Die mit dieser Demoversion erstellten Quelltexte k”nnen problemlos mit der
+OS/2 Version compiliert werden.
+Alle auf dem Datentr„ger enthaltenen Programme und Quelltexte unterliegen dem
+Urheberschutzgesetz.
+Ver”ffentlichung oder kommerzielle Nutzung ist strikt untersagt.
+Die Dateien RTM.EXE und DPMI16BI.OVL unterliegen den Lizenzbestimmungen
+von Borland International!
+
+Der Nutzer kann die auf dem Datentr„ger enthaltenen Programme und Quelltexte
+beliebig oft verfielf„ltigen und an Dritte weitergeben, solange ALLE auf dem
+Datentr„ger enthaltenen Dateien UNVERNDERT und UNENTGELTLICH weitergegeben
+werden.
+Insbesondere mssen Dritte auf die Copyright-Bestimmungen, wie sie in dieser
+Datei festgehalten sind, hingewiesen werden.
+
+Dem Nutzer ist gestattet, mit dem auf dem Datentr„ger enthaltenem Programm
+Programme fr den privaten Gebrauch herzustellen.
+Eine Vermarktung bzw. kommerzielle Nutzung der mit dieser Demoversion
+ganz oder teilweise hergestellten Programme ist untersagt!
+Der Nutzer kann die im Programmpaket enthaltenen Quelltexte fr den privaten
+Gebrauch modifizieren, solange die Copyright-Vermerke in den Quelltexten
+nicht entfernt werden.
+
+Weitergehende Rechte an den auf dem Datentr„ger enthaltenen Programmen, ins-
+besondere Decompilierung und Ver„ndern der ausfhrbaren Dateien, werden vom
+Autoren ausdrcklich nicht einger„umt!
+Das Copyright und alle daraus resultierenden Rechte an dem Programmpaket
+verbleiben beim Autoren!
+
+Bug-Fixes bitte an den Autoren ber
+
+DMV-Verlag
+Redaktion toolbox
+z.Hd. Herrn R. Nrnberger
+Gruber Str. 46a
+85586 Poing
+
+oder via CompuServe
+(im deutschen OS/2-Forum ¯CIS:OS2UGER® werden die Updates und
+ Bug-Fixes abgelegt)
+72662,2052
+oder via Internet:
+72662.2052@compuserve.com
